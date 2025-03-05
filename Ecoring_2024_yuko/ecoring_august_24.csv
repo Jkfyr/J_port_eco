@@ -1,0 +1,73 @@
+Number,Brand Name,Ctag,Photo,Description,Grading,Ecoring Grading,備考(付属品）,Cost(price after Tax),Befor Tax,125% Reference prices,Reserved price(指値),相場/Market price,委託番号,1,2,3,Sales commission,result(after tax),Profit / Loss,Sold,C-tag scan,Buyer,Memo
+1.0,Chanel,C239363,,"Chain shoulder bag, Chevron Medal Flap Bag",,,card,305800.0,,,320000.0,,,,,,,,46200.0,True,,,broken parts
+2.0,Fendi,C245278,,"Handbag, Selleria, Textured leather",,,,27120.0,,,35000.0,,,21000.0,,,1540.0,21560.000000000004,-5560.0,True,,,stains
+3.0,Christian Dior,C243573,,"Pouch, Honeycomb, Coated canvas and leather",,,,9900.0,,,12000.0,,,6000.0,,,990.0,5610.000000000001,-4290.0,True,,,repaired with super glue
+4.0,Louis Vuitton,C245382,,"Barkeley, Damier azur, Canvas",,,,90640.0,,,50000.0,,,23000.0,23000.0,,1540.0,23760.000000000004,,False,,,handle badly cracks
+5.0,Louis Vuitton,C216682,,"Lockit, Monogram transparent",,,,62315.0,,,55000.0,,,35000.0,33000.0,32000.0,1540.0,33660.0,,False,,,"handle crack, painted corner"
+6.0,Louis Vuitton,C250513,,Monogram Sabbia Cabas,,,cadena,47300.0,,,45000.0,,,,,,,,2200.0,True,,,broken zipper pull
+7.0,Louis Vuitton,C244146,,"Petit Sac Plat, Monogram",,,strap,130900.0,,,135000.0,,,94000.0,90000.0,,2640.0,96360.00000000001,,False,,,broken strap
+8.0,Louis Vuitton,C266669,,"Papillon 30, Monogram, Canvas　",,,,22660.0,,,25000.0,,,,7000.0,8000.0,990.0,7810.0,,False,,,missing zipper pull
+9.0,Gucci,C284345,,"2 way bag, Interlocking, Leather",,,strap,34320.0,,,40000.0,,,23000.0,23000.0,25000.0,1540.0,25960.000000000004,,False,,,"corner scuffed, darkening"
+10.0,Gucci,C245681,,"Shoulder bag, Guccissima, Textured leather",,,,33990.0,,,35000.0,,,16000.0,18000.0,20000.0,1540.0,20460.0,,False,,,slight crack in strap
+11.0,Celine,C247497,,"Handbag, Macadam",,,,20394.0,,,25000.0,,,17000.0,,,1540.0,17160.0,-3234.0,True,,,gray item
+12.0,Gucci,C262036,,"Shoulder Bag, Leather",,,,22600.0,,,20000.0,,,10000.0,,,990.0,10010.0,-12590.0,True,,,poederly BC
+13.0,Louis Vuitton,C260877,,"Watch, Tambour, SS",,,box,106700.0,,,120000.0,,,,,,,,,False,,,
+14.0,Chanel,C266564,,"Chain shoulder bag, Matelasse",,,,181280.0,,,180000.0,,,148000.0,,,2640.0,160160.0,,False,,,painted
+15.0,Hermès,C242657,,Twilly ,,,,13200.0,,,13000.0,,,8000.0,,,990.0,7810.0,-5390.0,True,,,no tag
+16.0,Chanel,C221143,,"Scarf, Silk",,,,11330.0,,,12000.0,,,7000.0,,,990.0,6710.000000000001,-4620.0,True,,,hole
+17.0,Chanel,C240792,,"Earrings, Faux pearl, Gold plated metal",,,box,10800.0,,,10000.0,,,,,,,,-790.0,True,,,peeling BC
+18.0,Chanel,C214871,,"Brooch, Coco mark, Gold plated metal",,,box,56100.0,,,60000.0,,,36000.0,33000.0,37000.0,1540.0,39160.0,,False,,,
+,Chanel,C142838,,"Box, paper",,,,64.8,,,,,,,,,,,,False,,,
+19.0,Chanel,C187156,,"Earrings, Faux pearl, Gold plated metal",,,box,19210.0,,,18000.0,,,11000.0,,,1540.0,10560.000000000002,-8650.0,True,,,broken BC
+20.0,Chanel,C284704,,"Earrings, Faux pearl, Gold plated metal",,,box,16500.0,,,20000.0,,,10000.0,10000.0,,990.0,10010.0,,False,,,repaired
+,Chanel,C144187,,"Box, paper",,,,540.0,,,,,,,,,,,,False,,,
+21.0,Chanel,C241632,,Earrings,,,box,41810.0,,,35000.0,,,19000.0,17000.0,17000.0,1540.0,17160.0,,False,,,broken
+22.0,Hermès,C242612,,"Scarf, Silk",,,,19800.0,,,15000.0,,,8000.0,9000.0,9000.0,990.0,8910.0,,False,,,
+23.0,Hermès,C158249,,"Scarf, Silk",,,,21527.0,,,15000.0,,,8000.0,8000.0,7000.0,990.0,6710.000000000001,,False,,,"no tag, stains"
+24.0,Chanel,C218179,,"Scarf, Silk",,,,13200.0,,,12000.0,,,6000.0,,,990.0,5610.000000000001,-7590.0,True,,,stains B-
+25.0,Chanel,C267393,,"Chain shoulder bag, Coco mark, Leather",,,,170500.0,,,190000.0,,,150000.0,122000.0,131000.0,2640.0,141460.0,,False,,,190000
+26.0,Chanel,C282907,,"Zippy wallet, Caviar, Textured leather",,,,23324.0,,,35000.0,,,16000.0,,,1540.0,16060.0,,False,,,35000
+27.0,Celine,C262263,,"2 way bag, Luggage nano shopper, Mouton",,,strap dustcover,32857.0,,,45000.0,,,30000.0,,,1540.0,31460.0,1903.0,True,,,45000
+28.0,Loewe,C264911,,"Tote Bag, Leather",,,,18700.0,,,30000.0,,,14000.0,15000.0,,1540.0,14960.0,,False,,,28000
+29.0,Loewe,C247865,,"Clutch Bag, Leather",,,,35200.0,,,49000.0,,,33000.0,23000.0,24000.0,1540.0,24860.000000000004,,False,,,49000
+30.0,Christian Dior,C264088,,"Compact wallet, Trotter, Canvas",,,box dustbag,35200.0,,,45000.0,,,,20000.0,14000.0,1540.0,13860.000000000002,,False,,,50000
+31.0,Loewe,C256002,,"Wallet, Leather",,,box dustbag,12450.0,,,20000.0,,,10000.0,,,990.0,10010.0,,False,,,20000
+32.0,Christian Dior,C266444,,"Tote bag, Cotton",,,,40000.0,,,55000.0,,,,,28000.0,1540.0,29260.000000000004,,False,,,55000
+33.0,Prada,C247269,,"Handbag, Leather",,,strap dustcover,63525.0,,,75000.0,,,55000.0,41000.0,41000.0,1540.0,43560.00000000001,,False,,,75000
+34.0,Chanel,C254931,,"Zippy wallet, Deauville",,,box card  seal,38522.0,,,55000.0,,,,22000.0,21000.0,1540.0,21560.000000000004,,False,,,55000
+35.0,Tiffany & Co.,C255159,,"Handbag, Leather",,,strap,28028.0,,,40000.0,,,22000.0,20000.0,20000.0,1540.0,20460.0,-7128.0,True,,,40000
+36.0,Prada,C266388,,"2 way bag, Canapa, Canvas",,,strap,36000.0,,,45000.0,,,24000.0,28000.0,24000.0,1540.0,24860.000000000004,,False,,,50000
+37.0,Prada,C231829,,"Crossbody Bag, Nylon",,,,31500.0,,,35000.0,,,,15000.0,13000.0,1540.0,12760.000000000002,,False,,,damaged interior
+38.0,Louis Vuitton,C252083,,"Pochette Accessoir, Monogram",,,,44000.0,,,45000.0,,,28000.0,29000.0,23000.0,1540.0,23760.000000000004,,False,,,damaged strap
+39.0,Louis Vuitton,C226644,,"Pochette Accessoir, Monogram",,,,58916.0,,,55000.0,,,34000.0,,,1540.0,35860.0,-10956.0,True,,,crack on the strap
+40.0,Gucci,C265345,,"Boston bag, GG crystal, Vernished Leather",,,dustcover,26059.0,,,25000.0,,,23000.0,,,1540.0,23760.000000000004,-2299.0,True,,,peeled exterior
+41.0,Chanel,C227823,,"Shoulder Bag, Cotton",,,box,155000.0,,,180000.0,,,120000.0,,,2640.0,129360.0,,False,,,
+42.0,Gucci,C230454,,"Coin Case, GG canvas",,,,18000.0,,,20000.0,,,,6000.0,4000.0,990.0,3410.0,,False,,,"some stains, discoloration"
+43.0,Hermès,C263385,,"Scarf, Silk",,,,11550.0,,,15000.0,,,9000.0,,,990.0,8910.0,-2640.0,True,,,tag ari
+44.0,G-Shock,C259034,,"Watch,  Stainless Steel",,,case,6050.0,,,8000.0,,,2000.0,3000.0,,990.0,2310.0000000000005,-3300.0,True,,,
+45.0,Hermès,C261732,,"Watch, Clipper Quartz",,,不動　case,23100.0,,,23000.0,,,12000.0,13000.0,,1540.0,12760.000000000002,-9350.0,True,,,
+46.0,Louis Vuitton,C261757,,"Watch, Tambour, SS",,,不動　box,91300.0,,,90000.0,,,,,,,,,False,,,
+47.0,TAG Heuer,C224517,,"Watch, Tag Heuer × G-Shock, SS",,,box,22000.0,,,25000.0,,,15000.0,16000.0,,1540.0,16060.0,-5500.0,True,,,
+48.0,Hermès,C260337,,"Watch, Clipper, Metal",,,不動,27775.0,,,25000.0,,,13000.0,19000.0,,1540.0,19360.0,-7975.0,True,,,修理不可
+49.0,Gucci,C212082,,"Watch, 1500, Gold plated metal",,,dustcover　不動,20570.0,,,20000.0,,,4000.0,3000.0,5000.0,990.0,4510.0,,False,,,
+50.0,Rado,C246157,,"Watch,exotic leather",,,,0.0,,,5000.0,,,1000.0,,,990.0,110.0,220.0,True,,,separate belt
+51.0,Hermès,C259781,,"Watch, Croisière, Stainless Steel",,,不動,59290.0,,,55000.0,,,,,,,,,False,,,修理不可
+52.0,Gucci,C260362,,"Watch, 1500L, Stainless Steel",,,不動,5555.0,,,5000.0,,,3000.0,,,990.0,2310.0000000000005,-3245.0,True,,,
+53.0,Chanel,C260369,,"Watch, Premiere, Quartz, SS",,,不動,83325.0,,,85000.0,,,,,,,,,False,,,fake
+54.0,G-Shock,C224315,,"Watch, Stainless Steel",,,不動,3186.6,,,3000.0,,,1000.0,,,990.0,110.0,-2306.6,True,,,
+55.0,Louis Vuitton,C216691,,Neverfull damie azur,,,,88374.0,,,70000.0,,,42000.0,,,1540.0,44660.00000000001,-43714.0,True,,,some cracks and piping
+56.0,Louis Vuitton,C241824,,"Tivoli GM, Monogram Canvas",,,,67980.0,,,50000.0,,,35000.0,30000.0,30000.0,1540.0,31460.0,,False,,,corner piping
+57.0,Louis Vuitton,C227747,,"Naviglio, Damier ebene, Canvas",,,,64680.0,,,55000.0,,,40000.0,33000.0,31000.0,1540.0,32560.0,,False,,,"corner scuffed, sticky"
+58.0,Gucci,C244588,,ニーパッド,,,,11550.0,,,8000.0,,,7000.0,,,990.0,6710.000000000001,-4840.0,True,,,
+59.0,Hermès,C252471,,"Scarf, Silk",,,,19800.0,,,15000.0,,,11000.0,13000.0,,1540.0,12760.000000000002,-6600.0,True,,,
+60.0,Hermès,C245661,,"Scarf, Silk",,,,18654.8,,,15000.0,,,10000.0,,,990.0,10010.0,-8644.8,True,,,scratches
+61.0,Louis Vuitton,C234265,,"Berkeley, Damier azur",,,,67980.0,,,55000.0,,,34000.0,,19000.0,1540.0,19360.0,,False,,,"interior pen mark, exterior scuffed"
+62.0,Gucci,C216186,,"Sunglasses, Plastic",,,,13596.0,,,10000.0,,,7000.0,,,990.0,6710.000000000001,-6886.0,True,,,loose screw
+63.0,Christian Dior,C156556,,"Sunglasses, Plastic",,,,16995.0,,,10000.0,,,3000.0,4000.0,7000.0,990.0,6710.000000000001,-9845.0,True,,,loose screw
+64.0,Louis Vuitton,C242471,,"Port Monnette Tresor, Damier",,,,19000.0,,,15000.0,,,9000.0,,,990.0,8910.0,-10090.0,True,,,damaged interior
+65.0,Louis Vuitton,C231560,,"Multicles 6, Damier Graphite, canvas",,,,11000.0,,,10000.0,,,5000.0,5000.0,,990.0,4510.0,-6050.0,True,,,"initial, crack"
+66.0,Fendi,C185298,,"Pom pom charm, Fur",,,,9605.0,,,9000.0,,,6000.0,,,990.0,5610.000000000001,-3995.0,True,,,
+67.0,Fendi,C181637,,"Pom Pom charm, Smiley, Fur",,,,9605.0,,,9000.0,,,6000.0,,,990.0,5610.000000000001,-3995.0,True,,,
+68.0,Fendi,C176423,,"Pom pom charm, Fur",,,,10000.0,,,8000.0,,,5000.0,,,990.0,4510.0,-5490.0,True,,,B-
+69.0,Fend,C187141,,"Pom pom charm, Fur",,,,9720.0,,,8000.0,,,7000.0,,,990.0,6710.000000000001,-3010.0,True,,,
+70.0,Fendi,C189913,,"Pom pom charm, Fur",,,,14690.0,,,10000.0,,,7000.0,,,990.0,6710.000000000001,-7980.0,True,,,
