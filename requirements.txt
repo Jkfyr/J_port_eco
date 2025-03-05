@@ -35,3 +35,5 @@ matplotlib-inline==0.1.7
 mdurl==0.1.2
 mkl-service==2.4.2  # Updated version
 streamlit==1.42.2
+plotly==6.0.0
+pandas==2.2.3
