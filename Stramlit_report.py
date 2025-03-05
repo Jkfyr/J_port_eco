@@ -13,8 +13,8 @@ def load_data(file):
 
     
 
-df_feb = load_data(r"C:\Users\Jens\JPorts_al\Ecoring\Eco_sale_data\february_sales.csv")
-df_jan =load_data(r"C:\Users\Jens\JPorts_al\Ecoring\Eco_sale_data\january_sales.csv")
+df_feb = load_data(r"february_sales.csv")
+df_jan =load_data(r"january_sales.csv")
 
 
 # Filter sold items
