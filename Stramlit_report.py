@@ -172,7 +172,7 @@ for i in range(3):
 
 
 # Prepping legacy sale data from 2024
-input_folder = r"C:\Users\Jens\JPorts_al\Ecoring\Eco_sale_data\Ecoring_2024_yuko"
+input_folder = r"Ecoring_2024_yuko"
 
 monthly_revenue_24 = {}
 
