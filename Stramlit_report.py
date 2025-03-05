@@ -8,13 +8,22 @@ import plotly.graph_objects as go
 
 # Load data 
 def load_data(file):
-    df = pd.read_csv(file)  
+    # Get the current working directory (where the script is located)
+    script_dir = os.path.dirname(os.path.realpath(__file__))
+    
+    # Combine the script directory with the filename to get the full path
+    file_path = os.path.join(script_dir, file)
+    
+    # Read the CSV file
+    df = pd.read_csv(file_path)
+     
     return df
 
     
 
 df_feb = load_data(r"february_sales.csv")
 df_jan =load_data(r"january_sales.csv")
+
 
 
 # Filter sold items
@@ -160,10 +169,10 @@ for i in range(3):
                 <div>
                     <h3>{ctag}</h3>
                     <p style="font-size: 18px; color: green;">¥{profit:,.0f}</p>
-                    <p style="font-size: 14px; color: gray;">Revenue: {revenue_percent:.1f}%</p>
                 </div>
             </div>
         """, unsafe_allow_html=True)
+#                    <p style="font-size: 14px; color: gray;">Revenue: {revenue_percent:.1f}%</p>
 
 # You can add more items in the same way or display additional information.
 
@@ -172,7 +181,8 @@ for i in range(3):
 
 
 # Prepping legacy sale data from 2024
-input_folder = r"Ecoring_2024_yuko"
+script_dir = os.path.dirname(os.path.realpath(__file__))  # Get the script's directory
+input_folder = os.path.join(script_dir, "Ecoring_2024_yuko")
 
 monthly_revenue_24 = {}
 
