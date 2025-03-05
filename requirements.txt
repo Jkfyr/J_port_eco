@@ -2,7 +2,7 @@ altair==5.5.0
 asttokens==3.0.0
 attrs==25.1.0
 blinker==1.9.0
-Bottleneck @ file:///C:/b/abs_816hr2khp1/croot/bottleneck_1731058648110/work
+Bottleneck==1.4.2
 cachetools==5.5.2
 certifi==2025.1.31
 charset-normalizer==3.4.1
@@ -39,7 +39,7 @@ mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
 narwhals==1.29.0
 nest-asyncio @ file:///C:/b/abs_65d6lblmoi/croot/nest-asyncio_1708532721305/work
 numexpr @ file:///C:/b/abs_05o8p7bfml/croot/numexpr_1730215959182/work
-numpy @ file:///C:/b/abs_0123vcxhf8/croot/numpy_and_numpy_base_1725470331966/work/dist/numpy-2.0.1-cp312-cp312-win_amd64.whl#sha256=e3e9d7fcaa32e9aa86aa46a7191a47fc4c4b35942462bbbedd17c45ef934dccd
+numpy==2.2.3
 openpyxl==3.1.5
 packaging @ file:///C:/b/abs_3by6s2fa66/croot/packaging_1734472138782/work
 pandas @ file:///C:/b/abs_e18w9ay4we/croot/pandas_1732735115740/work/dist/pandas-2.2.3-cp312-cp312-win_amd64.whl#sha256=2c8058e41dda2e7ecfff0740ad1d98f17d528c740f71b038c523a9d24d2321b0
