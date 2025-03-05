@@ -33,7 +33,7 @@ MarkupSafe==3.0.2
 matplotlib==3.10.0
 matplotlib-inline
 mdurl==0.1.2
-mkl-service==2.4.0
+mkl-service==2.4.2
 mkl_fft
 mkl_random
 narwhals==1.29.0
