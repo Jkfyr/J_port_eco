@@ -293,7 +293,7 @@ if not gray_items_df.empty:
         with col:
             # Construct the image URL using the correct column value
             image_url = f"https://s3.amazonaws.com/storage.j-ports/photographs/{row['Ctag']}/thumbnail/1.jpg"
-            st.image(image_url, caption="Item Image", use_container_width=True)  # Updated parameter
+            st.image(image_url, use_container_width=True)  # Updated parameter
             st.write(f"**Ctag:** {row['Ctag']}")  # Display C Tag
             sold_status = "Sold" if row["Sold"] else "Not Sold"  # Adjust based on dataset
             st.write(f"**Status:** {sold_status}")  # Display sold status
