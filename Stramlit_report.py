@@ -241,8 +241,7 @@ def custom_sort(month):
 # Sort the months based on the custom sort function
 sorted_months = sorted(monthly_revenue_24.keys(), key=custom_sort)
 
-# Streamlit app layout
-st.title("Ecoring 2024-2025 Total Revenue Plot")
+
 
 # Convert the dictionary to a pandas DataFrame
 revenue_df_24 = pd.DataFrame(list(monthly_revenue_24.items()), columns=['Month', 'Total Revenue'])
@@ -253,6 +252,56 @@ revenue_df_24 = revenue_df_24.sort_values('Month')
 
 # Plot the total revenue as a line chart using Streamlit
 #st.line_chart(revenue_df_24.set_index('Month')['Total Revenue'])
+
+# Identify items that did not receive any offers (all NaN in columns '1', '2', and '3')
+not_popular_items = df_feb[df_feb[['1', '2', '3']].isna().all(axis=1)][["Ctag", "Description"]]
+st.subheader("📉 Not Popular Items (No Offers)")
+st.write("These items did not receive any offers during the auction.")
+
+# Display items in a grid layout
+for _, row in not_popular_items.iterrows():
+    ctag = row["Ctag"]
+    description = row["Description"]
+    
+    # Generate the hyperlink for the image
+    image_url = f"https://s3.amazonaws.com/storage.j-ports/photographs/{ctag}/thumbnail/1.jpg"  
+
+    with st.container():
+        st.markdown(f"""
+            <div style="display: flex; align-items: center; margin-bottom: 20px;">
+                <img src="{image_url}" width="100" style="margin-right: 20px; border-radius: 5px;">
+                <div>
+                    <h4>{ctag}</h4>
+                    <p style="font-size: 16px;">{description}</p>
+                </div>
+            </div>
+        """, unsafe_allow_html=True)
+
+st.markdown("---")  # Separator before the next section
+# Filter for gray items
+st.subheader("Gray Items this month")
+
+gray_items_df = df_feb[df_feb["Memo"].str.contains("gray", case=False, na=False)]
+
+# Ensure there are items to display
+if not gray_items_df.empty:
+    gray_items_df = gray_items_df.head(3)  # Limit to 3 items
+
+    cols = st.columns(len(gray_items_df))  # Create columns dynamically
+
+    for col, (_, row) in zip(cols, gray_items_df.iterrows()):
+        with col:
+            # Construct the image URL using the correct column value
+            image_url = f"https://s3.amazonaws.com/storage.j-ports/photographs/{row['Ctag']}/thumbnail/1.jpg"
+            st.image(image_url, caption="Item Image", use_container_width=True)  # Updated parameter
+            st.write(f"**Ctag:** {row['Ctag']}")  # Display C Tag
+            sold_status = "Sold" if row["Sold"] else "Not Sold"  # Adjust based on dataset
+            st.write(f"**Status:** {sold_status}")  # Display sold status
+else:
+    st.write("No gray items found.")
+
+# Streamlit app layout
+st.title("📊 Ecoring 2024-2025 Total Revenue Plot")
 
 import plotly.graph_objects as go
 
